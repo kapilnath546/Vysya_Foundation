@@ -4,6 +4,7 @@ This is the official website of **Vysya Sangamam Foundation**, a community-drive
 
 ### 🔗 Live Website  
 👉 [https://vysya.netlify.app/](https://vysya.netlify.app/)
+👉 [https://kapilnath546.github.io/Vysya_Foundation/](https://kapilnath546.github.io/Vysya_Foundation/)
 
 ---
 
